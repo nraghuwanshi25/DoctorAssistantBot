@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+.venv/
+venv/
+env/
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Test / coverage
+.pytest_cache/
+.coverage
+
+# Logs and DBs
+*.log
+*.sqlite3
+*.db
+
+# Virtualenv
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+copilot.*
+
