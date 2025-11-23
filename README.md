@@ -273,7 +273,7 @@ Create a `.env` file in the project root with your configuration:
 OPENAI_API_KEY=sk-proj-YOUR_ACTUAL_API_KEY_HERE
 
 # Database Configuration (already in Database.py)
-# DATABASE_URL=mysql+asyncmy://root:Nilesh@143@localhost:3306/super_clinic?charset=utf8mb4
+# DATABASE_URL=mysql+asyncmy://root:test123@localhost:3306/super_clinic?charset=utf8mb4
 
 # Server Configuration
 PORT=8007
@@ -328,8 +328,6 @@ INFO:     Application startup complete
 
 Open your browser and navigate to:
 - **Frontend**: http://localhost:8007/
-- **API Swagger Docs**: http://localhost:8007/docs
-- **ReDoc**: http://localhost:8007/redoc
 
 ---
 
